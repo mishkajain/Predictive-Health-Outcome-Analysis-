@@ -26,13 +26,6 @@ By examining smoking status, alcohol consumption, physical activity, and hours o
 Specifically, the study will address the question: 
 #### How do smoking status, alcohol consumption, physical activity, and hours of sleep affect the general health status of adults in the United States?
 
-### Team Responsibilities:
-To ensure a well-rounded and cohesive project, each team member will take the lead on specific tasks. However, all members will assist in each area to ensure everything is on track and aligns with our project goals
-Data acquisition and cleaning, preliminary descriptive statistics - David
-Exploratory data analysis and visualization - Yinghao
-Statistical modeling and interpretation - Mishka
-Report writing - Mishka, David, Yinghao (Each member will draft different sections of the report. All members will contribute to editing and finalizing the report to ensure coherence and quality.)
-
 
 
 
