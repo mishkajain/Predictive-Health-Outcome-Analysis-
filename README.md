@@ -1,4 +1,4 @@
-# Group Project
+# Predictive Health Outcome Analysis
 
 ### Data: 
 The Behavioral Risk Factor Surveillance System (BRFSS) is a collaborative initiative involving all U.S. states, participating territories, and the Centers for Disease Control and Prevention (CDC). Its primary goal is to gather consistent, state-specific data on health risk behaviors, chronic illnesses and conditions, healthcare access, and the utilization of preventive health services linked to the leading causes of death and disability in the U.S. The BRFSS conducts surveys via both landline and mobile phones, targeting individuals aged 18 and older. In 2020, the BRFSS examined various factors, including health status and healthy days, physical activity, inadequate sleep, chronic health issues, oral health, tobacco usage, cancer screenings, and healthcare access. The survey data for 2020 includes a total of 401,958 observations (respondents) and 393 variables. Some of these variables are calculated, derived from responses to other questions to provide more detailed insights. 
